@@ -20,5 +20,5 @@ spec:
     spec:
       containers:
         - name: nodesample
-          image: nodesample:v2
+          image: nodesample:v9
           imagePullPolicy: Never
